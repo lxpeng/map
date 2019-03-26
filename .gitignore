@@ -63,3 +63,17 @@ fastlane/Preview.html
 fastlane/screenshots
 fastlane/test_output
 fastlane/readme.md
+
+.gradle
+/local.properties
+.idea
+.DS_Store
+build
+/captures
+gradle
+*.iml
+*.apk
+*.jks
+gradlew
+gradlew.bat
+
